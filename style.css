@@ -515,6 +515,7 @@
         opacity: 0;
         visibility: hidden;
         left: -1000px;
+        z-index: 22;
         display: flex;
         flex-direction: column;
         align-items: center;
